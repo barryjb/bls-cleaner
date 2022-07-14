@@ -1,0 +1,4 @@
+fix hamburger menu to transparent background color
+make video fit 
+change color overlay
+fix responsiveness
