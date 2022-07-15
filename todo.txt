@@ -1,4 +1,4 @@
-fix hamburger menu to transparent background color
-make video fit 
-change color overlay
-fix responsiveness
+fix hamburger menu to transparent background color 15/07/22 MA
+make video fit 15/07/22 MA
+change color overlay 15/07/22 MA
+fix responsiveness 15/07/22 MA
